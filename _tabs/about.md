@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi hello! I'm Raphael Baltazar.
+I graduated in 2018 from the University of Houston with my Bachelor of Science in Computer Information Systems, then again in 2022 with my Master of Science in Cybersecurity.
