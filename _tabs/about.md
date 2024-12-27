@@ -6,7 +6,9 @@ order: 4
 # About
 Hi hello! I'm Raphael Baltazar.
 I graduated in 2018 from the University of Houston with my Bachelor of Science in Computer Information Systems, then again in 2022 with my Master of Science in Cybersecurity. Here in this blog, I'll document my work for cybersecurity.
-
+{% raw %}
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3018" style='border:none;'></iframe>
+{% endraw %}
 ## Certifications
 
 Sep 2024 - [ICS2 CISSP](https://www.isc2.org/certifications/cissp)
