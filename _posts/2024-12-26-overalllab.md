@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab overview
+title: "Lab overview"
 categories: [security, lab]
 tags: [security, lab, tools]
 date: 2024-12-26 20:04:00 -600

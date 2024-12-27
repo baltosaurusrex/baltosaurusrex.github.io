@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing splunk
+title: "Installing splunk"
 categories: [security, tools]
 tags: [security, tools, Splunk]
 ---
